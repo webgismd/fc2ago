@@ -12,9 +12,7 @@ Prepared by: Michelle Douville (michelle.douville@gov.bc.ca)
 ### Section 1. Overview (of the Feature Class upload to ArcGIS Online Process)
 ### Section 2. ArcGIS Pro Project File
 ### Section 3. Running the python upload Process (instructions)
-### Section 4. Jenkins File/Job
-### Section 5. ArcGIS Online Items
-### Section 6. Troubleshooting
+
 	
 
 ### Section 1. Overview (of the Feature Class upload to ArcGIS Online Process)
