@@ -1,0 +1,17 @@
+32 * * * *;10;Fire Locations Current;http://catalogue.data.gov.bc.ca/dataset/2790e3f7-6395-4230-8545-04efb5a18800;https://governmentofbc.maps.arcgis.com/home/item.html?id=7cda51ae6ab447dc9de72ac34332d1c1
+32 * * * *;10;Fire Perimeters Current;http://catalogue.data.gov.bc.ca/dataset/cdfc2d7b-c046-4bf0-90ac-4897232619e1;https://governmentofbc.maps.arcgis.com/home/item.html?id=d0372b2a19944712b7d4ec3052bccefc
+0 20 1 4,9 *;216000;British Columbia Forest Tenure Road Section Lines;http://catalogue.data.gov.bc.ca/dataset/9e5bfa62-2339-445e-bf67-81657180c682;https://governmentofbc.maps.arcgis.com/home/item.html?id=baa5e507ff454c8c929023f76f46221d
+32 * * * *;10;British Columbia Protected Lands Access Restrictions;https://catalogue.data.gov.bc.ca/dataset/a10c0626-424c-4e9f-b84a-673c02e4d2b9;https://governmentofbc.maps.arcgis.com/home/item.html?id=3029cd07ff8a4ec7b1e32a1e1f353d36
+0 2 * * *;1440;British Columbia Recreation Sites Reserves and Interpretive Forests Closures;http://catalogue.data.gov.bc.ca/dataset/b0f23ae8-e0aa-449c-a806-653ba37f100a;https://governmentofbc.maps.arcgis.com/home/item.html?id=d1ba710bcfed4a6881a5eb02e75034b7
+0 20 1 4,9 *;216000;British Columbia Prescribed Fire;;https://governmentofbc.maps.arcgis.com/home/item.html?id=f805a3ab85614e609cb69ac4c1be5f81
+30 * * * *;10;British Columbia Area Restrictions;;https://governmentofbc.maps.arcgis.com/home/item.html?id=6ab38489471c464ea3b91973dd7fac89
+30 * * * *;10;British Columbia Bans and Prohibition Areas;;https://governmentofbc.maps.arcgis.com/home/item.html?id=f5eab6cf76f84b888d9ee37808140532
+0 17 * * *;1440;British Columbia Danger Rating;;https://governmentofbc.maps.arcgis.com/home/item.html?id=e061128994864527b4c4dafa01058e2d
+15 * * * *;10;British Columbia Evacuation Orders and Alerts;http://catalogue.data.gov.bc.ca/dataset/7efd46d0-b5d3-4dff-af80-d376c42aec33;https://governmentofbc.maps.arcgis.com/home/item.html?id=acf47697c83748b8ab4e196ec14f9fdd
+15 * * * *;10;British Columbia OFTS Registered Burn Locations;;https://governmentofbc.maps.arcgis.com/home/item.html?id=fe9316f728ab4244ab2f2ecd6c18692c
+15 * * * *;10;British Columbia Fuel Hazard Assessment and Abatement;;https://governmentofbc.maps.arcgis.com/home/item.html?id=22502ab3e094403386d1aa608aa88302
+0 20 1 4,9 *;216000;British Columbia Conservancy Areas;http://catalogue.data.gov.bc.ca/dataset/550b3133-2004-468f-ba1f-b95d0e281e78;https://governmentofbc.maps.arcgis.com/home/item.html?id=778341071b904a1db0ebb583ab5ab36e
+0 20 1 4,9 *;216000;British Columbia Wildlife Management Areas;http://catalogue.data.gov.bc.ca/dataset/f3ece977-aa7f-4cb2-b7d0-de64155f6c83;https://governmentofbc.maps.arcgis.com/home/item.html?id=6357f5c61a2f4d53830465e84780e854
+0 20 1 4,9 *;216000;British Columbia Parks Ecological Reserves and Protected Areas;http://catalogue.data.gov.bc.ca/dataset/1130248f-f1a3-4956-8b2e-38d29d3e4af7;https://governmentofbc.maps.arcgis.com/home/item.html?id=6773e6a38f2749808679c7c712e2f79b
+0 20 1 4,9 *;216000;National Parks of Canada within British Columbia;http://catalogue.data.gov.bc.ca/dataset/88e61a14-19a0-46ab-bdae-f68401d3d0fb;https://governmentofbc.maps.arcgis.com/home/item.html?id=458e897937844c839254fba270062fa5
+0 2 * * *;216000;British Columbia Indian Reserves and Band Names;http://catalogue.data.gov.bc.ca/dataset/c2ce81af-78c1-467c-b47e-c392cd0a771f;https://governmentofbc.maps.arcgis.com/home/item.html?id=eacb5780fce3411791278b2fa31d6f07
